@@ -1,9 +1,8 @@
 
-## Authors
+## You can connect with me on
 
-- [@NiranjanShetty-Git](https://github.com/shetty-niranjan)
-- [@NiranjanShetty-LinkedIn](https://www.linkedin.com/in/niranjan-shetty-27ba191a/)
-- [@NiranjanShetty-Medium](https://medium.com/@niranshettyofficial)
+- [@LinkedIn](https://www.linkedin.com/in/niranjan-shetty-27ba191a/)
+- [@Medium](https://medium.com/@niranshettyofficial)
 
 
 ## 🚀 About Me
