@@ -6,8 +6,7 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer and currently working as a technical lead
-
+I'm a full stack developer/technical lead with extensive experience in full development life-cycle and testing projects. 
 
 ## Tech Stack
 
