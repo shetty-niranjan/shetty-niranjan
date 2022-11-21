@@ -1,10 +1,4 @@
 
-## You can connect with me on
-
-- [@LinkedIn](https://www.linkedin.com/in/niranjan-shetty-27ba191a/)
-- [@Medium](https://medium.com/@niranshettyofficial)
-
-
 ## 🚀 About Me
 I'm a full stack developer/technical lead with extensive experience in full development life-cycle and testing projects. 
 
