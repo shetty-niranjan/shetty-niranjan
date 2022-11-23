@@ -1,5 +1,5 @@
 ## Connect with me
-[![Medium]([https://medium.com/@niranshettyofficial])
+[Medium]([https://medium.com/@niranshettyofficial])
 
 ## 🚀 About Me
 I'm a full stack developer/technical lead with extensive experience in full development life-cycle and testing projects. 
