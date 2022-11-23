@@ -7,7 +7,7 @@ I'm a full stack developer/technical lead with extensive experience in full deve
 
 ## Tech Stack
 
-**Client:** Angular, React, Redux, JavaScript
+**Client:** Angular, JavaScript
 
 **Server:** .NET, AWS, C#, Data Structure
 
