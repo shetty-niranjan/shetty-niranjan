@@ -11,5 +11,5 @@ I'm a full stack developer/technical lead with extensive experience in full deve
 
 **Server:** .NET, AWS, C#, Data Structure
 
-**DataBase:** SQL, MongoDB
+**DataBase:** SQL
 
